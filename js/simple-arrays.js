@@ -1,4 +1,4 @@
 //done by ayamba bless
 
 let subjectNames = ["Mathematics", "English", "Physics", "Biology"];
-document.write(subjectNames[0]);
+document.write(subjectNames[3]);
