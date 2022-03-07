@@ -1,7 +1,7 @@
 //coditional statement
 
-let a = 7; 
-let b = 15;
+let a = 45; 
+let b = 35;
 
 if(a > b){
     console.log("a is higher than b");
