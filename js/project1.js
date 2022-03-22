@@ -10,4 +10,4 @@ let remainingYears = 90 - age;
 let days = remainingYears *365;
 let weeks = remainingYears *52;
 let months = remainingYears *12;
-alert(" You have " + days + " days, " + weeks  + " weeks and " + months + " months left. ");
+alert(`You have ${days} days ${weeks} weeks and ${months} months left.`);
